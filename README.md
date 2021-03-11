@@ -23,7 +23,7 @@
 📊 **Qualifications (Points determined by voting <img height="40px" src="https://media.giphy.com/media/PmY2KNjzrPl9wuDw28/giphy.gif">) :**
 <!--START_SECTION:waka-->
 
-Html        ███████████████████▓▒░░  90.58 %
+Html &nbsp&nbsp&nbsp        ███████████████████▓▒░░  90.58 %
 <br/>
 Css         ███████████████████▓▓▒░  91.01 %
 <br/>
