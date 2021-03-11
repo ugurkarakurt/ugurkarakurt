@@ -9,7 +9,8 @@
 <a href="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" target="_blank">
   <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
 </a>
- <p>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</p> - [x] HTML5
+ <p>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</p> 
+- [x] HTML5
 - [x] CSS3
     - [x] Scss
     - [x] Koala
