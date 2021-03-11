@@ -6,7 +6,7 @@
   <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1615463225~hmac=096ad99503aca29c94dcad9a08b5937e"/>
 </a></code>
 <code>
-<a align="right" href="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" target="_blank">
+<a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
   <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
 </a></code>
 <hr />
