@@ -16,14 +16,12 @@
 ![code](https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif) ![code](https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif)
 
  
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-    - [ ] GFM task list 3-3
-- [ ] GFM task list 4
-    - [ ] GFM task list 4-1
+- [x] HTML5
+- [x] CSS3
+    - [x] Scss
+    - [x] Koala
+- [x] JavaScript
+    - [x] Jquery
     - [ ] GFM task list 4-2
   
 
