@@ -13,11 +13,11 @@
 <hr />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<code><img height="20" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
-<code><img height="20" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
-<code><img height="20" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
-<code><img height="20" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
-<code><img height="20" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
+<code><img height="30" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
+<code><img height="30" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
+<code><img height="30" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
+<code><img height="30" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
+<code><img height="30" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
 
 
 📊 **Qualifications (Points determined by voting <img height="40px" src="https://media.giphy.com/media/PmY2KNjzrPl9wuDw28/giphy.gif">) :**
