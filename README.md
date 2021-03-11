@@ -26,7 +26,7 @@
 Html        ███████████████████▓▒░░  90.58 % 
 Css         ███████████████████▓▓▒░  91.01 % 
 Javascript  █████████████████▓▓▒░░░  85.74 % 
-React       ███████████▓▒░░░░░░░░░░  50.14 % <img height="40px" src="https://media.giphy.com/media/L2xB83N5eA2AI2yiv9/giphy.gif">
+React       ███████████▓▒░░░░░░░░░░  50.14 % (<img height="40px" src="https://media.giphy.com/media/L2xB83N5eA2AI2yiv9/giphy.gif">)
 
 ```
 
