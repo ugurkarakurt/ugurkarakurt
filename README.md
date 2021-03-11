@@ -1,7 +1,7 @@
-<img align="right" src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="200px"> 
+<code><img align="right" src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="200px"> </code>
 <code>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</code>
 <code><a align="right" href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
-  <img style="padding: 10px;" alt="Uğur Karakurt | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615462541~hmac=8c76a1dec278b39f720a1c5ad261c882"/>
+  <img alt="Uğur Karakurt | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615462541~hmac=8c76a1dec278b39f720a1c5ad261c882"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
   <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1615463225~hmac=096ad99503aca29c94dcad9a08b5937e"/>
@@ -21,7 +21,7 @@
 <code><img height="30" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
 
 
-📊 **Qualifications (Points determined by voting <img height="40px" src="https://media.giphy.com/media/PmY2KNjzrPl9wuDw28/giphy.gif">) :**
+**Qualifications (Points determined by voting <img height="40px" src="https://media.giphy.com/media/PmY2KNjzrPl9wuDw28/giphy.gif">) :**
 <!--START_SECTION:waka-->
 
 ```
