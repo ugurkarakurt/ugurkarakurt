@@ -1,5 +1,5 @@
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/PjgoQXboUEa3fC3DWX/giphy.gif" width="50">
 
 </br>
  I'm Uğur Karakurt,a passionate self-taught Front-end web developer.
