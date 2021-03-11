@@ -10,7 +10,10 @@
   <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
 </a></code>
 <hr />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
+<pre>
+                      <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
+</pre>
+
 <code><img height="30" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
 <code><img height="30" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
 <code><img height="30" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
@@ -27,10 +30,3 @@ Css         ███████████████████▓▓▒�
 Javascript  █████████████████▓▓▒░░░  85.74 %
 React       ███████████▓▒░░░░░░░░░░  50.14 %
 ```
-  
-
-<pre>
-hello, this is
-   just an     example
-....
-</pre>
