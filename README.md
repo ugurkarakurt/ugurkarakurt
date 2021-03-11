@@ -1,7 +1,7 @@
 
 ## Hey there <img src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="150px">
 <a href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
-  <img alt="Uğur Karakurt | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png"/>
+  <img style="padding: 10px" alt="Uğur Karakurt | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png"/>
 </a>
 <a href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
   <img alt="Uğur Karakurt | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG3.png"/>
