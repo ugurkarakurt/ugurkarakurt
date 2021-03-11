@@ -2,8 +2,7 @@
 ## Hey there <img src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="150px">
 
 </br>
- <h1>I'm Uğur Karakurt,a passionate self-taught Front-end web developer. </h1>
- <a href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
+ <h5>I'm Uğur Karakurt,a passionate self-taught Front-end web developer. </h5><a href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
   <img alt="Uğur Karakurt | LinkedIn" width="50px" src="https://media.giphy.com/media/Vwfo3gxxAwA1kyI2Vs/giphy.gif" />
 </a>
 
