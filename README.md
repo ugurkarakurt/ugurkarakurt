@@ -10,7 +10,7 @@
   <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
 </a></code>
 <hr />
-<pre>
+<pre align="left">
     <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
 </pre>
 
