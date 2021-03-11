@@ -21,7 +21,8 @@
     - [x] Scss
     - [x] Koala
 - [x] JavaScript
-    - [x] Jquery
+    - [x] Jquery 
+    <br/>
 [<img width="15px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/>] React
   
 
