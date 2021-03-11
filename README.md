@@ -20,7 +20,7 @@
 <code><img height="20" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
 
 
-📊 **Qualifications (Percentages are determined by sms. <img width="10px" src="https://media.giphy.com/media/Xd1UcNTYof0b2Ks2Hb/giphy.gif">) :**
+📊 **Qualifications (Percentages are determined by sms. <img height="30px" src="https://media.giphy.com/media/Xd1UcNTYof0b2Ks2Hb/giphy.gif">) :**
 <!--START_SECTION:waka-->
 ```text
 Other      21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.80 % 
