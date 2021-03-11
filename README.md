@@ -11,7 +11,7 @@
 </a></code>
 <hr />
 <pre>
-                      <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
+    <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
 </pre>
 
 <code><img height="30" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
