@@ -22,7 +22,7 @@
     - [x] Koala
 - [x] JavaScript
     - [x] Jquery
-    - [ ] GFM task list 4-2
+    - [![Star Wars](https://media.giphy.com/media/qvzuaIqxv4qrlyAfKo/giphy.gif)] GFM task list 4-2
   
 
 
