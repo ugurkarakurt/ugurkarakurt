@@ -13,16 +13,16 @@
 <hr />
 
 
-![code](https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif) ![code](https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif)
-
- 
 - [x] HTML5
 - [x] CSS3
     - [x] Scss
     - [x] Koala
 - [x] JavaScript
     - [x] Jquery
-    - [ ] <img width="15px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/> React
+    - [ ] <img width="15px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/> React ![code](https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif)
+
+ 
+
 
   
 
