@@ -12,7 +12,7 @@
  <p>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</p> 
 <hr />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <code><img height="30" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
 <code><img height="30" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
 <code><img height="30" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
