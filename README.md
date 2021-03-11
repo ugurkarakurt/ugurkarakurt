@@ -10,7 +10,7 @@
 <a align="right" href="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" target="_blank">
   <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
 </a></code>
-<hr />
+
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
 <code><img height="30" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></code>
