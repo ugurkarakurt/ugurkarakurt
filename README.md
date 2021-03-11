@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="200px">
+<img align="left" src="https://media.giphy.com/media/XfUq4YqOcyHfrTEM5l/giphy.gif" width="200px">
 <code>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</code>
 <code><a align="right" href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
   <img alt="Uğur Karakurt | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615462541~hmac=8c76a1dec278b39f720a1c5ad261c882"/>
