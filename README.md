@@ -22,7 +22,7 @@
     - [x] Koala
 - [x] JavaScript
     - [x] Jquery
-     <img width="25px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/>  GFM task list 4-2
+    - <img width="15px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/> React
   
 
 
