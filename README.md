@@ -22,7 +22,7 @@
     - [x] Koala
 - [x] JavaScript
     - [x] Jquery
-    <img width="20px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/> React
+    - <img width="15px" src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif"/> React
   
 
 
