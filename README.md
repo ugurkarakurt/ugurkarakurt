@@ -3,11 +3,11 @@
   <img alt="Uğur Karakurt | LinkedIn" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615462541~hmac=8c76a1dec278b39f720a1c5ad261c882"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1615981229~hmac=39a04d12458e6dc5aff3143b280f9bc9"/>
+  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1617015324~hmac=0d4bd69ba5be72e65a86c354125e8934"/>
 </a></code>
 <code>
 <a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
-  <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1615463224~hmac=1a2af9da322c91d1704e06d9739a6c2e"/>
+  <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617015366~hmac=a12d9416a5b60f27b52e10e7792f825a"/>
 </a></code>
 <hr />
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
