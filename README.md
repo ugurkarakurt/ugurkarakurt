@@ -3,7 +3,7 @@
   <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619624604~hmac=d2f2b7e36a021d159cb30f68497c1fc1"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1617543310~hmac=49821d9d2c37e0e253a76c62f454ade9"/>
+  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1619624716~hmac=0469792970f302a0b220e1e455b723f5"/>
 </a></code>
 <code>
 <a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
