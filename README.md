@@ -1,6 +1,6 @@
 <code>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</code>
 <code><a align="right" href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619624604~hmac=d2f2b7e36a021d159cb30f68497c1fc1"/>
+  <img alt="Uğur Karakurt | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619624604~hmac=d2f2b7e36a021d159cb30f68497c1fc1"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
   <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1619624716~hmac=0469792970f302a0b220e1e455b723f5"/>
