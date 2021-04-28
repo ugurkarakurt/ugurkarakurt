@@ -7,7 +7,7 @@
 </a></code>
 <code>
 <a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
-  <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617015366~hmac=a12d9416a5b60f27b52e10e7792f825a"/>
+  <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619624747~hmac=24da39c2efa9869b26d9b94a748015b4"/>
 </a></code>
 <hr />
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
