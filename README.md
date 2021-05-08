@@ -1,13 +1,13 @@
 <code>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</code>
 <code><a align="right" href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="./icons/icons8-linkedin.svg"/>
+  <img alt="Uğur Karakurt | Instagram" width="40px" src="./icons/icons8-linkedin.svg"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="./icons/icons8-instagram.svg"/>
+  <img alt="Uğur Karakurt | Instagram" width="40px" src="./icons/icons8-instagram.svg"/>
 </a></code>
 <code>
 <a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
-  <img alt="Uğur Karakurt | Twitter" width="25px" src="./icons/icons8-twitter.svg"/>
+  <img alt="Uğur Karakurt | Twitter" width="40px" src="./icons/icons8-twitter.svg"/>
 </a></code>
 <hr />
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
