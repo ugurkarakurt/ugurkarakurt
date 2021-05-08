@@ -1,13 +1,13 @@
 <code>I'm Uğur Karakurt,a passionate self-taught Front-end web developer.</code>
 <code><a align="right" href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619624604~hmac=d2f2b7e36a021d159cb30f68497c1fc1"/>
+  <img alt="Uğur Karakurt | Instagram" width="25px" src="./icons/icons8-instagram.svg"/>
 </a></code>
 <code><a align="right" href="https://www.instagram.com/ugurkarakurt7/" target="_blank">
-  <img alt="Uğur Karakurt | Instagram" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1619624716~hmac=0469792970f302a0b220e1e455b723f5"/>
+  <img alt="Uğur Karakurt | Instagram" width="25px" src="./icons/icons8-linkedin.svg"/>
 </a></code>
 <code>
 <a align="right" href="https://twitter.com/ugurKarakurt_" target="_blank">
-  <img alt="Uğur Karakurt | Twitter" width="25px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619624747~hmac=24da39c2efa9869b26d9b94a748015b4"/>
+  <img alt="Uğur Karakurt | Twitter" width="25px" src="./icons/icons8-twitter.svg"/>
 </a></code>
 <hr />
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
