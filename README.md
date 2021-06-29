@@ -17,9 +17,6 @@
 <code><img height="30" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
 <code><img height="30" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
 
-![Visit Counter](https://komarev.com/ghpvc/?username=ugurkarakurt-cs&color=brightgreen&style=flat&label=Profile+Views)
-
-
 
 **Qualifications (Points determined by voting <img height="40px" src="https://media.giphy.com/media/PmY2KNjzrPl9wuDw28/giphy.gif">) :**
 <!--START_SECTION:waka-->
@@ -28,3 +25,6 @@ Html        ██████████████████████�
 Css         ██████████████████████████████████████████████████████████████████▓▓▒░░░░░░  91.01 %
 Javascript  █████████████████████████████████████████████████████████████▓▓▒░░░░░░░░░░░  85.75 %
 </pre>
+
+![Visit Counter](https://komarev.com/ghpvc/?username=ugurkarakurt-cs&color=brightgreen&style=flat&label=Profile+Views)
+
