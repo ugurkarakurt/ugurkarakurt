@@ -28,5 +28,5 @@ Javascript  ██████████████████████�
 
 ![Visit Counter](https://komarev.com/ghpvc/?username=ugurkarakurt-cs&color=brightgreen&style=flat&label=Profile+Views)
 
-  <img alt="Uğur Karakurt | Instagram" width="40px" src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake.gif
-"/>
+![Alt Text](https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake.gif)
+
