@@ -21,14 +21,12 @@
 
 <!--START_SECTION:waka-->
 <pre>
-Html        █████████████████████████████████████████████████████████████▓▒░░░░░░░░  90.88 %
-Css         ██████████████████████████████████████████████████████████████▓▓▒░░░░░░  91.01 %
-Javascript  █████████████████████████████████████████████████████████▓▓▒░░░░░░░░░░░  85.75 %
+Html        █████████████████████████████████████████████████████████████████████▓▒░░░░░░░  90.88 %
+Css         ██████████████████████████████████████████████████████████████████████▓▓▒░░░░░  91.01 %
+Javascript  ████████████████████████████████████████████████████████████████▓▓▒░░░░░░░░░░░  85.75 %
 
 <img src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake.svg">
 
 </pre>
-
-![Visit Counter](https://komarev.com/ghpvc/?username=ugurkarakurt-cs&color=brightgreen&style=flat&label=Profile+Views)
 
 
