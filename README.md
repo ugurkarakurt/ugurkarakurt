@@ -6,8 +6,7 @@
 Html        ████████████████████████████████████████████████████████████████████  90.88 %
 Css         ██████████████████████████████████████████████████████████████████████  91.01 %
 Javascript  ████████████████████████████████████████████████████████████████  85.75 %
-
-
 </pre>
+<img src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake.svg">
 
 
