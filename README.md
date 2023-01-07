@@ -2,8 +2,8 @@ I'm Uğur Karakurt,a passionate self-taught Front-end web developer.<a align="ri
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="300" />
 
-Html        █████████████████████████████████████████  90.88 % </br>
-Css         ██████████████████████████████████████████  91.01 % </br>
-Javascript  ██████████████████████████████████████  85.75 % </br>
+Html     </br>   █████████████████████████████████████████  90.88 % 
+Css      </br>   ██████████████████████████████████████████  91.01 % </br>
+Javascript </br>  ██████████████████████████████████████  85.75 % </br>
 
 
