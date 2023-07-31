@@ -2,7 +2,7 @@
 
 <img style="margin-right: 30px;" align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="250" />
 
-<table><tr><td valign="center"><img ...>  </td></tr></table>    
+<table style="border:none"><tr><td valign="center"><img>  </td></tr></table>    
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" width="70"/> </a>
