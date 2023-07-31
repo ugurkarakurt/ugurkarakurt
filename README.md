@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Uğur Karakurt a passionate self-taught Front-end web developer.</h1>
 
-<img style="margin-right: 30px;" align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="250" />
+<img style="margin-right: 30px; margin-left:50px" align="left" alt="GIF" src="https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif" height="250" />
 
 <table style="border:none"><tr><td valign="center"><img>  </td></tr></table>    
 
