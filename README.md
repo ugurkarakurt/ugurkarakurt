@@ -32,7 +32,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ugurkarakurt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/snake.svg" alt="Snake animation" />
 
 ###
 
