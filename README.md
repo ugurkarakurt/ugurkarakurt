@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/bac5adbccf78373c61ff3666572e6419ffe33f3ca2e47b38b92c6563a9d90417/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a32527864324a7a646d35765a5455775a6a593259544a754d54526f616d6b7961474a6d4d5468744e324a355a486435636e426863435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f434e416851754463654c77776f2f67697068792e676966"  />
+  <img height="400" src="https://camo.githubusercontent.com/bac5adbccf78373c61ff3666572e6419ffe33f3ca2e47b38b92c6563a9d90417/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a32527864324a7a646d35765a5455775a6a593259544a754d54526f616d6b7961474a6d4d5468744e324a355a486435636e426863435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f434e416851754463654c77776f2f67697068792e676966"  />
 </div>
 
 ###
@@ -82,6 +82,25 @@
   <a href="https://x.com/mr_01001011" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ugurkarakurt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkarakurt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ugurkarakurt/count.svg?"  />
 </div>
 
 ###
