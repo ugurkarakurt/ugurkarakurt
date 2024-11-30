@@ -1,4 +1,7 @@
 <h2 align="left">Hi, I'm Uğur Karakurt a passionate self-taught Front-end web developer.</h2>
+  <a href="https://portfolio-ivory-two-41.vercel.app/portfolio" target="_blank">
+    My Portfolio
+  </a>
 
 ###
 
