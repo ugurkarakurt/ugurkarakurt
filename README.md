@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Uğur Karakurt. I am a Frontend Web Developer who likes to develop and contribute to projects.</h2>
+<h2 align="left">I am a Frontend Web Developer who likes to develop and contribute to projects.</h2>
   <a href="https://portfolio-ivory-two-41.vercel.app/portfolio" target="_blank">
     My Portfolio
   </a>
