@@ -21,7 +21,7 @@ I'm a passionate frontend developer specializing in creating scalable, performan
 
 🎯 **Current Focus:** Leading comprehensive web solutions with React, Next.js, and TypeScript  
 🌱 **Learning:** Advanced WebRTC implementations and 3D web technologies  
-🎸 **Fun Fact:** I'm the guitarist of **[The WelderS](https://welders.band)** - when I'm not coding, you'll find me creating music!  
+🎸 **Fun Fact:** I'm the guitarist of **[The WelderS](https://www.welders.band)** - when I'm not coding, you'll find me creating music!  
 
 ---
 
