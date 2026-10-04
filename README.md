@@ -150,9 +150,9 @@ pie showData
 ### 🐍 Contribution snake, eating my commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ugurkarakurt/ugurkarakurt/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
