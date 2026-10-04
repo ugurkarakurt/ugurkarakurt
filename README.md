@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Senior+Frontend+Developer+%C2%B7+7%2B+years+on+the+web;%3E+Ships+React+at+a+steady+60+fps;%3E+Fights+iOS+Safari+so+you+don%27t+have+to;%3E+Hid+a+whole+shoot-%27em-up+in+his+portfolio+%E2%9C%88%EF%B8%8F;%3E+Shreds+guitar+in+TRAJED%C4%B0+%F0%9F%8E%B8;%3E+Status%3A+looking+for+the+next+boss+fight+%F0%9F%9F%A2" alt="Typing intro" />
 
+<a href="https://www.ugurkarakurt.com"><img src="https://img.shields.io/badge/%E2%9C%88%EF%B8%8F%20PLAY%20MY%20PORTFOLIO-ugurkarakurt.com-58a6ff?style=for-the-badge&labelColor=0b1020" alt="ugurkarakurt.com" height="36" /></a>
+&nbsp;
+<a href="https://trajedi.band"><img src="https://img.shields.io/badge/%F0%9F%8E%B8%20HEAR%20THE%20BAND-trajedi.band-f2c46b?style=for-the-badge&labelColor=0b1020" alt="trajedi.band" height="36" /></a>
+
+<br /><br />
+
 <a href="https://www.linkedin.com/in/u%C4%9Fur-karakurt-8b77b6154/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hello@ugurkarakurt.com"><img src="https://img.shields.io/badge/Email-eef1ff?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email" /></a>
 <a href="https://medium.com/@ugurkarakurt"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -53,7 +59,7 @@ const player = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://www.ugurkarakurt.com">ugurkarakurt.com</a></h3>
+      <h3>✈️ ugurkarakurt.com</h3>
       <p>A portfolio that's secretly a game. Drag the plane off the home page into the warp gate and you're dropped into <b>UK / FLIGHT</b> — a Sky Force-style shoot-'em-up running right inside the site.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
@@ -77,7 +83,7 @@ const player = {
       </details>
     </td>
     <td width="50%" valign="top">
-      <h3>🎸 <a href="https://trajedi.band">trajedi.band</a></h3>
+      <h3>🎸 trajedi.band</h3>
       <p>Home of <b>TRAJEDİ</b>, the rock band I play guitar and write songs in — designed, built and maintained by me. Every release with its twelve streaming platforms, the gig calendar, member profiles and a press kit.</p>
       <p>Publishing a release is a content change, not a code change. Because the developer also has to be at rehearsal. 🤘</p>
       <p>
